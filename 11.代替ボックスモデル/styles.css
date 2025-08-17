@@ -40,10 +40,16 @@ div {
   margin: 10px;
   background-color: #EAD7A4;
   text-align: center;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 320px;
+  height: 360px;
+  border: 1px solid #800000;
 }
 
 img {
   margin: 10px 0;
+  width: 300px;
 }
 
 
